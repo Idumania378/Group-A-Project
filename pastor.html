@@ -29,7 +29,8 @@
             <input type="password" id="login-password" name="login-password" placeholder="Enter your password" required><br>
 
             <button type="submit" class="user-button">Login</button>
-            <button onclick="goToMainPage()">Return to Main Page</button>
+            <button onclick="goToMainPage()" class="return-button">Return to Main Page</button>
+
             <script>
                 function goToMainPage() {
                     window.location.href = "index.html";
@@ -46,9 +47,6 @@
             <label for="signup-name">Name:</label>
             <input type="text" id="signup-name" name="signup-name" placeholder="Enter your name" required><br>
 
-            <label for="Church">Church:</label>
-            <input type="text" id="signup-church" name="signup-Church" placeholder="Enter your Church location" required><br>
-
             <label for="signup-password">Create Password:</label>
             <input type="password" id="signup-password" name="signup-password" placeholder="Create a password" required><br>
 
@@ -57,8 +55,9 @@
 
             <button type="submit" class="user-button">Sign Up</button>
         </form>
-        <button onclick="goToMainPage()">Return to Main Page</button>
-            <script>
+        <button onclick="goToMainPage()" class="return-button">Return to Main Page</button>
+
+        <script>
                 function goToMainPage() {
                     window.location.href = "index.html";
                 }
