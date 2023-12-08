@@ -17,9 +17,7 @@ To experiment with the Sample School Website:
 
 1. Clone the repository: `git clone https://github.com/Idumania378/Group-A-Project.git`
 2. Navigate to the project folder: `cd sample-school-website`
-3. Install dependencies: `npm install`
-4. Run the website: `npm start`
-5. Visit [http://localhost:3000](http://localhost:3000) in your browser.
+3. Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Usage
 
@@ -27,7 +25,7 @@ Feel free to experiment with different website creation strategies, test new fea
 
 ## Contributing
 
-We welcome contributions from the community! Follow our [Contribution Guidelines](CONTRIBUTING.md) if you'd like to contribute to the Sample School Website.
+We welcome contributions from the community! 
 
 ## License
 
