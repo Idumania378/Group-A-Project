@@ -15,7 +15,7 @@ Welcome to the Sample School Website repository! This project serves as a testin
 
 To experiment with the Sample School Website:
 
-1. Clone the repository: `git clone https://github.com/your-username/sample-school-website.git`
+1. Clone the repository: `git clone https://github.com/Idumania378/Group-A-Project.git`
 2. Navigate to the project folder: `cd sample-school-website`
 3. Install dependencies: `npm install`
 4. Run the website: `npm start`
